@@ -1,0 +1,10 @@
+li.selected{
+  background-color: dimgray ;
+}
+li{
+  background-color: azure;
+}
+ul.heroes{
+  list-style-type: none;
+}
+
